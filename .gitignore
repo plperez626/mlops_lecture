@@ -9,6 +9,7 @@ wheels/
 # Virtual environments
 .venv
 /sample_dataset.csv
+large_dataset.csv
 /model.pkl
 
 # DVC files
