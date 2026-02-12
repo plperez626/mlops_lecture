@@ -12,10 +12,13 @@ wheels/
 /model.pkl
 
 # DVC files
-# .dvc/
-# .dvcignore
+.dvc/
+.dvcignore
 *.dvc
 
 # Mlflow
 mlruns/
 mlflow.db
+
+# Evidently
+drift_report.html
