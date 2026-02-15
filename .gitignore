@@ -12,11 +12,6 @@ wheels/
 large_dataset.csv
 /model.pkl
 
-# DVC files
-.dvc/
-.dvcignore
-*.dvc
-
 # Mlflow
 mlruns/
 mlflow.db
