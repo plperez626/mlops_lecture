@@ -8,11 +8,18 @@ dependencies = [
     "dvc>=3.66.1",
     "evidently>=0.7.20",
     "ipykernel>=7.2.0",
+    "ipywidgets",
     "kedro>=1.2.0",
     "kedro-viz>=12.5.0",
     "mlflow>=3.9.0",
     "pandas>=2.3.3",
     "scikit-learn>=1.8.0",
+    "skops",
+    "torch",
+    "torchvision",
+    "xgboost",
+    "dagshub",
+    "bentoml",
 ]
 
 [dependency-groups]

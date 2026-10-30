@@ -15,6 +15,8 @@ large_dataset.csv
 # Mlflow
 mlruns/
 mlflow.db
+mlflow_ui.log
 
 # Evidently
 drift_report.html
+/Dataset_BUSI_with_GT
